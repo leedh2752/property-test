@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    message: start1
+    test: test1
